@@ -1,10 +1,9 @@
 <header>
   <img height="100px" src="./public/XAR.png"/> 
-  <h2><b>Xhunn Anthony Raymundo</b></h2>
+  <h1><b>Xhunn Anthony Raymundo</b></h2>
 </header>
-<hr/>
 
-<h2><a href="https://xhunn.dev">Official Website</a></h2>
+<h3><a href="https://xhunn.dev">Official Website</a></h2>
 <p>PS: Oh just so you guys know, the official website is still under development. It's pretty outdated so I hope this works for you 😅</p>
 <p>If you press the link for the official website and it goes here, then that only means I successfully redirected the site to this first. Cheers!🥂</p>
 <hr/>
