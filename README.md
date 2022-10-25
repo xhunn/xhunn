@@ -20,7 +20,7 @@
   </li>
   <li>
     <a href="https://fullstack-capstone.xhunn.dev">Full-Stack Development Capstone</a>
-    <p>Okay, this is the capstone for my whole full stack development journey with <i>Zuitt Coding Bootcamp</i>. I defintely enjoyed this one, I take a lot in pride in this, though looking at it now... It's pretty mid, lmao.</p>
+    <p>Okay, this is the capstone for my whole full stack development journey with <i>Zuitt Coding Bootcamp</i>. I defintely enjoyed this one, I take a lot in pride in this, though looking at it now... It's pretty mid, lmao. <i>(admin creds: FLH@gmail.com ; pass: FLH)</i></p>
   </li>
   <li>
     <a href="https://fullstack-capstone.xhunn.dev">1st Year College Project</a>
