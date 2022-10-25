@@ -23,7 +23,7 @@
     <p>Okay, this is the capstone for my whole full stack development journey with <i>Zuitt Coding Bootcamp</i>. I defintely enjoyed this one, I take a lot in pride in this, though looking at it now... It's pretty mid, lmao. <i>(admin creds: FLH@gmail.com ; pass: FLH)</i></p>
   </li>
   <li>
-    <a href="https://fullstack-capstone.xhunn.dev">1st Year College Project</a>
+    <a href="https://hotel.xhunn.dev">1st Year College Project</a>
     <p>Alright, here me out... This project was done under a day and the same day I had to pass this project to my professor. I was working and it slipped my mind that I had this project to submit, though I made this because I wanted to be exempted from class. 😈 *evil laugh*</p>
   </li>
 </ul>
